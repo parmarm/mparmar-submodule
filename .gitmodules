@@ -1,0 +1,3 @@
+[submodule "toji-submodule"]
+	path = toji-submodule
+	url = https://github.com/tgcode/tgcode-submodule.git
